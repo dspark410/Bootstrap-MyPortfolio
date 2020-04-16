@@ -1,0 +1,153 @@
+body {
+    background-image:url("../images/background.png");
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777;
+    margin: 0;    
+    padding: 0;
+    line-height: 150%;
+    height: 1500px;
+}
+
+p {
+    line-height: 200%;    
+}
+
+a:visited {
+    color: #777;
+}
+
+a:hover {
+    color:black;
+}
+
+.container {
+    width: 960px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.header {
+    background-color: #ffffff;
+    border-bottom: 1px solid #ccc;
+    width: 100%;
+    box-sizing: border-box;
+    position: fixed;
+    top: 0;
+    z-index: 2;    
+}
+
+.header h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #4aaaa5;
+    color: #fff;
+    float: left;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    margin: 0; 
+}
+
+.header ul {
+    list-style: none;
+    float: right; 
+    margin-top: 29px; 
+}
+
+.header li {
+    display: inline;
+    padding-right: 20px;
+}
+
+.header a {
+    text-decoration: none;
+    color: #777;
+}
+ 
+.main { 
+    background-color:#fff;
+    margin-top: 150px; 
+    height: 600px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: 1px solid #ccc;   
+}
+
+.mainbox {
+    border-bottom-style: solid;
+    border-bottom-color: #ccc;
+    padding: 30px;
+    
+}
+
+.main h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    clear: both;
+    color: #4aaaa5;
+    background-color: #fff;
+    padding-left: 0px; 
+}
+
+.main img {
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.box {
+    position: relative; 
+    width: 200px;
+    display: inline-table;
+}
+
+.box h2 {
+    position: absolute;
+    bottom: 20px;
+    background-color: #4aaaa5;
+    text-align: center;
+    width: 200px;
+}
+
+.form {
+    padding-left: 0px;
+    padding-bottom: 15px;  
+}
+
+.inputform {
+    padding-bottom: 15px;
+}
+
+.form label {
+    display: block;
+}
+
+.inputform input[type="text"], form textarea{
+    width: 100%;
+    border: 1px solid #ccc;
+}
+
+.textarea {
+    height: 200px;
+}
+
+.submitbutton {
+    color: #fff;
+    background-color: #4aaaa5;
+    border: none;
+    padding: 10px 20px;
+}
+
+.footer {
+    color: #fff;
+    background-color: #666666;
+    text-align: center;
+    border-top: 10px solid #4aaaa5;
+    position: fixed;
+    bottom: 0;
+    width: 100%;   
+}
+
+.footer p {
+    margin-bottom: 0;
+    padding-top: 50px;
+}
