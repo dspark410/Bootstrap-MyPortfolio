@@ -7,10 +7,10 @@ This portfolio showcases an aboutme page, a contact page, and all my other portf
 ## Usage
 Check out the responsive images:
 
-![AboutMe 980](./assets/images/980%20AboutMe.jpg)
+![980 AboutMe](https://user-images.githubusercontent.com/62404086/79673541-69968500-818f-11ea-9a0c-1816582273f9.JPG)
 
 
-![AboutMe 768](./assets/images/768%20AboutMe.jpg)
+![768 AboutMe](https://user-images.githubusercontent.com/62404086/79673548-7adf9180-818f-11ea-930b-3d0815a38577.JPG)
 
 
-![AboutMe 640](./assets/images/640%20AboutMe.jpg)
+![640 AboutMe](https://user-images.githubusercontent.com/62404086/79673557-88951700-818f-11ea-8a7e-dd5726cce759.JPG)
