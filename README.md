@@ -7,10 +7,10 @@ This portfolio showcases an aboutme page, a contact page, and all my other portf
 ## Usage
 Check out the responsive images:
 
-![AboutMe 980](./assets/images/980%20AboutMe.png)
+![AboutMe 980](./assets/images/980%20AboutMe.jpg)
 
 
-![AboutMe 768](./assets/images/768%20AboutMe.png)
+![AboutMe 768](./assets/images/768%20AboutMe.jpg)
 
 
-![AboutMe 640](./assets/images/640%20AboutMe.png)
+![AboutMe 640](./assets/images/640%20AboutMe.jpg)
