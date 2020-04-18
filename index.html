@@ -5,15 +5,19 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>My Portfolio</title>
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-        <link rel="stylesheet" type="text/css" href="style.css">
+        <link rel="stylesheet" type="text/css" href="./assets/css/style.css">
 
     </head>
 
     <body>
         
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">   
-             <h2>David Park</h2>
-                <ul class="nav navbar ml-auto">
+        <nav class="navbar navbar-expand-md navbar-dark bg-dark">   
+             <h2 class="name">David Park</h2>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
+                    <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
                         <a class="nav-link" href="index.html">About</a>
                     </li>
@@ -24,25 +28,21 @@
                         <a class="nav-link" href="contact.html">Contact</a>
                     </li>
                 </ul>
+            </div>
         </nav>
     
         <div class="container">
             <div class="row">
-                <div class="col-12 col-md-12 col-lg-8">
+                <div class="col-12 col-md-12 col-lg-8 main">
                     <h2 class="header">About Me</h2>
-                    <hr>
                     <div class="row">
-                        <div class="col-12 col-md-3 col-lg-4">
-                            <img src="https://placehold.it/200/200" class="img-thumbnail img-fluid" alt="placeholder image">
+                        <div class="col-12 col-md-4 col-lg-4 text-center">
+                            <img src="./assets/images/image.png" class="img-thumbnail img-fluid" alt="placeholder image">
                         </div>
-                        <div class="col-12 col-md-9 col-lg-8">
+                        <div class="col-12 col-md-8 col-lg-8">
                             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ducimus non quod provident consectetur nisi ullam, autem animi aperiam dolorem possimus quisquam repudiandae veritatis exercitationem eum, aliquid, minus quia id minima! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Deleniti debitis hic porro tempora nihil, id, minus saepe odit consequuntur asperiores consectetur consequatur ex veniam sunt perspiciatis blanditiis, qui soluta ducimus!</p>
                         </div>
-                    <div class="row">
-                         <div class="col-12 col-md-12 col-lg-12">
-                             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime quae eum ad itaque fugit rem ratione debitis, quo, enim officia, delectus commodi in quod! Placeat veritatis mollitia doloremque at laborum.</p>
-                            </div>
-                        </div>
+                    
                     </div>
                 </div>    
             </div>
