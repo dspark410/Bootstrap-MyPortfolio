@@ -1,7 +1,7 @@
-# Bootstrap-MyPortfolio
+# Basic Portfolio Template Bootstrap
 
 ## Description
-This portfolio showcases an aboutme page, a contact page, and all my other portfolios I have worked on. This particular portfolio was designed to reveal a little about myself, my background, and an easier way to contact me. You are able to view this portfolio on any device due the reponsiveness regardless of what device you wish to view it.
+This application showcases an aboutme, contact, and portfolio page template. This application uses the bootstrap framework, and is mobile responsive.
 
 
 ## Usage
